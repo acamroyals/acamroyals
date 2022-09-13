@@ -1,0 +1,3 @@
+- Hi, I’m @acamroyals
+- I’m interested in robotics
+- I’m currently learning programming
